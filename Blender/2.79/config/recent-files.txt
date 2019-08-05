@@ -1,0 +1,10 @@
+E:\MaelysJob\OneDrive\2.PRO\2017-20XX_OPUSCOPE\1.EVENTS_COMMUNICATION\2018_INCRUSTATIONS\Cammap\CamMap110_opacities_suite.blend
+E:\MaelysJob\OneDrive\2.PRO\2017-20XX_OPUSCOPE\1.EVENTS_COMMUNICATION\2018_INCRUSTATIONS\Cammap\models\table_bake.blend
+E:\MaelysJob\OneDrive\2.PRO\2017-20XX_OPUSCOPE\1.EVENTS_COMMUNICATION\2018_INCRUSTATIONS\Cammap\models\bake.blend
+E:\MaelysJob\OneDrive\2.PRO\2017-20XX_OPUSCOPE\1.EVENTS_COMMUNICATION\2018_INCRUSTATIONS\Cammap\Anciennes scenes\CamMap11.blend
+E:\MaelysJob\LOCAL_GIT_PROJECTS\AUTOMATIC_BAKEMYSCAN\Automatic_BakemyScan\Blender\2.79\scripts\addons\io_scene_gltf2\glTF2.blend
+C:\Users\Maelys\Downloads\Bureau_Reexport.blend
+E:\MaelysJob\OneDrive\2.PRO\2017-20XX_OPUSCOPE\1.EVENTS_COMMUNICATION\2019_JNA\MAN_3D_JNA\depas_amphikypellon_vase-gobelet\depas10.blend
+C:\Users\Maelys\Downloads\Armors_LP_HP.blend
+C:\Users\Maelys\Downloads\camera_mapping.blend
+E:\3D_GENERALIST_WORK\3D_production_backup\20180309_backup\production\01_Modeling\People\Body\5_Model-adult-woman\5_Model-adult-woman_RIGG-nakedblend.blend
