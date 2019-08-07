@@ -29,8 +29,8 @@ goto:done
 echo image_extension is %image_extension%
 
 
-
-"%ffmpegpath%" -i %1 -vf scale=%resolution%:%resolution% %image_name%_reduced.%image_extension%
+REM use the instruction which keeps the image ratio, because some textures won't be square
+"%ffmpegpath%" -i %1 -vf scale=%resolution%:-1 %image_name%_reduced.%image_extension%
 
 set newimage_path=%1\..\%image_name%_reduced.%image_extension%
 
