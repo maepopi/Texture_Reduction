@@ -7,7 +7,7 @@ set inputFolder=%~dp0..\Input
 
 set image_name=%~n1
 
-set resolution=256
+set resolution=1024
 
 if exist "%1.png" goto:png
 if exist "%1.jpg" goto:jpg
