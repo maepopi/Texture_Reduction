@@ -1,8 +1,8 @@
-set ffmpegpath=%~dp0..\ffmpeg\bin\ffmpeg.exe
+set ffmpegpath=%~dp0..\..\ffmpeg\bin\ffmpeg.exe
 
 set inputPath=%1
 
-set inputFolder=%~dp0..\Input
+set inputFolder=%~dp0..\Input\Convert_Only
 
 
 set image_name=%~n1
