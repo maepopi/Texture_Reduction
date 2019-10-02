@@ -4,14 +4,16 @@ set inputPath=%1
 
 set inputFolder=%~dp0..\Input\Reduce_Only
 
+set image_extension=%~x1
+
 
 set image_name=%~n1
 
 set resolution=1024
 
-if exist "%1.png" goto:png
-if exist "%1.jpg" goto:jpg
-if exist "%1.jpeg" goto:jpeg
+IF %image_extension% EQU .png (GOTO:png)
+IF %image_extension% EQU .jpg (GOTO:jpg)
+IF %image_extension% EQU .jpeg (GOTO:jpeg)
 
 :png
 set image_extension=png
@@ -39,8 +41,10 @@ echo new image path is %newimage_path%
 REM rename original in _old
 ren "%1" "%image_name%_old.%image_extension%"
 
-REM rename reduced in original
+REM rename reduced in original (weird bug, you need to refresh the page for the final name to appear)
 ren "%newimage_path%" "%image_name%.%image_extension%"
+
+
 
 
 pause
